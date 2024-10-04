@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body{
+    font-family: "Karla", sans-serif;
+    height: 100vh;
+}
+
+.section1{
+    text-align:start;
+    height: 43%;
+    width: 90%;
+    padding-top: 65px;
+    padding-left:90px;
+    background-color: white;
+}
+
+#heading1{
+    color: rgba(61,169,168,255);
+    margin-bottom: 35px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#heading2{
+    color: rgba(195,216,85,255);
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.paragraph1{
+    color: rgba(188,191,199,255);
+    line-height: 40px;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: flex-start;
+    height: 57%;
+}
+.section2{
+    background-color: rgba(41,180,177,255);
+    width: 50%;
+    padding-top:80px;
+    padding-left: 90px;
+}
+
+#heading3{
+    color: rgba(231,252,251,255);
+    font-size: 32px;
+    font-weight: 600;
+}
+
+#dollar29{
+    color: rgba(242,254,254,255);
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+#permonth{
+    text-align: center;
+    color: rgba(91,204,204,255);
+    padding-left: 10px;
+    font-size: 25px;
+}
+#paragraph2{
+    color: rgba(190,248,246,255);
+    font-size: 28px;
+    margin-top: 15px;
+}
+#button{
+    background-color: rgba(191,223,50,255);
+    color: rgba(246,254,184,255);
+    border-radius: 8px;
+    border-radius: transparent;
+    border-color:rgba(193,224,48,255) ;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 158px;
+    padding-right: 168px;
+    margin-top: 52px;
+    font-weight: 600;
+    font-size: 23px;
+}
+.section3{
+    background-color: rgba(72,191,189,255);
+    width: 50%;
+    padding: 80px;
+    padding-left: 90px;
+}
+#heading4{
+    color: rgba(231,252,251,255);
+    font-size: 32px;
+    font-weight: 600;
+}
+ul{
+    list-style: none;
+    margin-top: 30px;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 31px; 
+    color: rgba(161,234,237,255);
+}
